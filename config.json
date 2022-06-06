@@ -1,0 +1,32 @@
+{
+  "dificuldades": {
+    "Treino": {
+      "nome": "Treino",
+      "alvos": 4,
+      "velocidade": 1,
+      "limite_perder": 10,
+      "medalha": "Coral de Plástico"
+    },
+    "Fácil": {
+      "nome": "Fácil",
+      "alvos": 10,
+      "velocidade": 1,
+      "limite_perder": 20,
+      "medalha": "Lião da Madeira"
+    },
+    "Médio": {
+      "nome": "Médio",
+      "alvos": 30,
+      "velocidade": 1,
+      "limite_perder": 40,
+      "medalha": "Capivarinha de Prata"
+    },
+    "Difícil": {
+      "nome": "Difícil",
+      "alvos": 30,
+      "velocidade": 2,
+      "limite_perder": 20,
+      "medalha": "Python de Ouro"
+    }
+  }
+}
