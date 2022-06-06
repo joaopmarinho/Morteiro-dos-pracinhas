@@ -7,3 +7,4 @@ int PONTOS_ACERTO = 100;
 int PONTOS_ERRO = 5;
 int numBalas = 7;
 int numero;
+int limiteInimigos;
