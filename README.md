@@ -1,7 +1,7 @@
 # Como executar
 
-Será preciso executar o arquivo `jogoMain.py`. Comando:
+Será preciso executar o arquivo `main.c`. Comando:
 
 ```console
-$ python jogoMain.py
+gcc main.c -o main; ./main
 ```
